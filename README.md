@@ -100,7 +100,6 @@ unir duas paixões, tecnologia e veículos leves/pesados.
 />
  <br/>
 
----
 ## 📊 Estatísticas
 
 <img 
