@@ -99,6 +99,7 @@ unir duas paixões, tecnologia e veículos leves/pesados.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
 />
  <br/>
+ <br/>
 
 ## 📊 Estatísticas
 
