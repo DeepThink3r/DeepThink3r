@@ -70,7 +70,7 @@ unir duas paixões, tecnologia e veículos leves/pesados.
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="25px" 
     style="padding-right: 10px;"
     src="Power-BI.svg" 
 />
