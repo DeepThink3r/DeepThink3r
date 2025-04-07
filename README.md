@@ -4,7 +4,9 @@ Meu nome é Gabriel, tenho 25 anos e sou natural de Mato Grosso, atualmente, res
 Possuo formação superior em Tecnologia de Banco de Dados e, atualmente, estou cursando minha
 especialização em Engenharia de Dados no LABDATA-FIA. \
 Sou apaixonado por tecnologia e pelo setor industrial, especialmente o automotivo, onde eu consegui
-unir duas paixões, tecnologia e veículos leves/pesados.
+unir duas paixões, tecnologia e veículos automotores. \
+\
+⭐ Curiosidade sobre mim: Sou formado como mecânico de motores diesel pelo SENAI. Antes de me tornar analista de dados, trabalhei na linha de montagem de motores diesel da MWM Motores e Geradores, onde ainda atuo até hoje.
 
 ---
 
