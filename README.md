@@ -56,7 +56,7 @@ unir duas paixões, tecnologia e veículos leves/pesados.
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;"
-    src="dbt-signature_tm_light.svg" 
+    src="dbt-bit_tm.svg" 
 />
 <img 
     align="left" 
