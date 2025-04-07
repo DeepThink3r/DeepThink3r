@@ -1,6 +1,6 @@
 # Bem vindo à minha oficina de idéias 💡
 
-Me chamo Gabriel, tenho 25 anos e sou natural de Mato Grosso, mas resido em São Paulo-SP.
+Meu nome é Gabriel, tenho 25 anos e sou natural do estado de Mato Grosso; atualmente, resido em São Paulo, SP.
 Possuo formação superior em Tecnologia de Banco de Dados e, atualmente, estou cursando minha
 especialização em Engenharia de Dados no LABDATA-FIA.
 Sou apaixonado por tecnologia e pelo setor industrial, especialmente o automotivo, onde eu consegui
