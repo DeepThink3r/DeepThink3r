@@ -109,5 +109,5 @@ unir duas paixões: tecnologia e veículos automotores. \
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepThink3r&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepThink3r&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
 />
