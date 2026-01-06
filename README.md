@@ -103,11 +103,3 @@ unir duas paixões: tecnologia e veículos automotores. \
  <br/>
  <br/>
 
-## 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepThink3r&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-/>
